@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a fourth year student at IIIT Allahabad currently undertaking my bachelors in electronics and communication. 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; I'm a Software Developer with an experience in Development and Analysis with particular expertise in Web, App and Cloud DevOps.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; I'm a Software Developer with an experience in Development and Analysis with particular expertise in Web, App and DevOps.
       
 - 💻 I use daily **.js**, **.sql**, **.php**, **.css**, **.html**
 - 👯 You can find me on <a href="https://twitter.com/ujjwal24batra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ujjwal24batra" height="20" width="20" /></a>&nbsp;, or on 
