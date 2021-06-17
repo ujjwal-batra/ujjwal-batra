@@ -5,8 +5,8 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; I'm a Software Developer with an experience in Development and Analysis with particular expertise in Web, App and DevOps.
       
 - 💻 I use daily **.js**, **.sql**, **.php**, **.css**, **.html**
-- 👯 You can find me on <a href="https://twitter.com/ujjwal24batra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ujjwal24batra" height="20" width="20" /></a>&nbsp;, or on 
-<a href="https://www.linkedin.com/in/ujjwal24batra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ujjwal24batra" height="20" width="20" /></a>&nbsp;.
+- 👯 You can find me on <a href="https://twitter.com/ujjwal24batra" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ujjwal24batra" height="20" width="20" /></a>&nbsp;, or on 
+<a href="https://www.linkedin.com/in/ujjwal24batra/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ujjwal24batra" height="20" width="20" /></a>&nbsp;.
 
 ---
 ### Things I code with
@@ -38,11 +38,11 @@
 <br />
 
 <p align="center">
-<a href="https://twitter.com/ujjwal24batra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ujjwal24batra" height="30" width="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/ujjwal24batra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ujjwal24batra" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/kudb#8688" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="kudb#8688" height="40" width="30" /></a>&nbsp;
-<a href="https://codeforces.com/profile/UB24"><img align="center" alt="UB24" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" /></a>
-<a href="https://www.codechef.com/users/kudb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="kudb" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/ujjwal24batra" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ujjwal24batra" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ujjwal24batra/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ujjwal24batra" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/kudb#8688" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="kudb#8688" height="40" width="30" /></a>&nbsp;
+<a href="https://codeforces.com/profile/UB24" target="_blank"><img align="center" alt="UB24" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" /></a>
+<a href="https://www.codechef.com/users/kudb" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="kudb" height="30" width="30" /></a>&nbsp;
 </p>
 
 ---
