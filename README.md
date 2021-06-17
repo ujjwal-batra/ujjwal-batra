@@ -1,78 +1,49 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://medium.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
-</p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a fourth year student at IIIT Allahabad currently undertaking my bachelors in electronics and communication. I'm a Software Developer with an experience in Development and Analysis with particular expertise in Web, App and Cloud DevOps.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm a fourth year student at IIIT Allahabad currently undertaking my bachelors in electronics and communication. 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; I'm a Software Developer with an experience in Development and Analysis with particular expertise in Web, App and Cloud DevOps.
+      
 - 💻 I use daily **.js**, **.sql**, **.php**, **.css**, **.html**
-- 👯 You can find me on <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>, or on 
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>.
+- 👯 You can find me on <a href="https://twitter.com/ujjwal24batra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ujjwal24batra" height="20" width="20" /></a>&nbsp;, or on 
+<a href="https://www.linkedin.com/in/ujjwal24batra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ujjwal24batra" height="20" width="20" /></a>&nbsp;.
 
+---
+### Things I code with
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="85" height="70"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-430098?style=flat-square&logo=JavaScript&logoColor=white" />
+      <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+      <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-CB3837?style=flat-square&logo=Node.js&logoColor=white" />
+      <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+      <img alt="MySql" src="https://img.shields.io/badge/-Mysql-E34F26?style=flat-square&logo=mysql&logoColor=white" />
+      <img alt="PHP" src="https://img.shields.io/badge/-php-430098?style=flat-square&logo=php&logoColor=white" />
+      <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+      <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-CB3837?style=flat-square&logo=github-actions&logoColor=white" />
+      <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+      <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+      <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwal-batra&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal-batra&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.33% 
-🌆 Daytime    105 commits    ███████░░░░░░░░░░░░░░░░░░   28.53% 
-🌃 Evening    186 commits    ████████████░░░░░░░░░░░░░   50.54% 
-🌙 Night      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
-Tuesday      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
-Wednesday    72 commits     █████░░░░░░░░░░░░░░░░░░░░   20.99% 
-Thursday     9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
-Friday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
-Saturday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-Sunday       97 commits     ███████░░░░░░░░░░░░░░░░░░   28.28%
-
-```
-
-
-
-<!--END_SECTION:waka-->
 
 ⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 45.76 % as on ⏰ 17-6-2021.
+<br />
+<br />
 
----
-
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Generating unique IDs in a Large scale Distributed environment](https://apoorvtyagi.tech/generating-unique-ids-in-a-large-scale-distributed-environment)
-- [Dunning Kruger Effect and Imposter Syndrome](https://apoorvtyagi.tech/dunning-kruger-effect-and-imposter-syndrome)
-- [Chrome extensions I use to enhance my GITHUB experience](https://apoorvtyagi.tech/7-chrome-extensions-to-enhance-github-experience)
-- [The Most Famous Coding Interview Question](https://apoorvtyagi.tech/the-most-famous-coding-interview-question)
-- [Useful Resources To Learn Web Development & To Create Your Website](https://apoorvtyagi.tech/useful-resources-to-learn-web-development-and-to-create-your-website)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [... view more](https://apoorvtyagi.tech/)
+<p align="center">
+<a href="https://twitter.com/ujjwal24batra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ujjwal24batra" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ujjwal24batra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ujjwal24batra" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/kudb#8688" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="kudb#8688" height="40" width="30" /></a>&nbsp;
+<a href="https://codeforces.com/profile/UB24"><img align="center" alt="UB24" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" /></a>
+<a href="https://www.codechef.com/users/kudb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="kudb" height="30" width="30" /></a>&nbsp;
+</p>
 
 ---
 
